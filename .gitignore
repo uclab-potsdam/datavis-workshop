@@ -2,5 +2,5 @@
 .ipynb_checkpoints
 screenshots/
 .DS_store
-data/img/
-data/img_basic/
+tutorials/data/img/
+tutorials/data/img_basic/
