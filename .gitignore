@@ -1,2 +1,6 @@
 .log
 .ipynb_checkpoints
+screenshots/
+.DS_store
+data/img/
+data/img_basic/
