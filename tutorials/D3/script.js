@@ -19,6 +19,7 @@ Promise.all([
   ])
   .then(([moviesData]) => {
     console.log(moviesData)
+
 });
 
 var data1 = [22,17,28,55];
