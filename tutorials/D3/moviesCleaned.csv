@@ -1,0 +1,541 @@
+title,critic rating(%),audience rating(%),genres,available_date,img_path,genre1,genre2,genre3,genre4,genre5,genre6
+THE EMOJI STORY,91.0,0.0,Documentary,2020-12-22,data/img/poster-1.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+PROMISING YOUNG WOMAN,91.0,87.0,"Comedy, Mystery And Thriller",2020-12-25,data/img/poster-2.jpg,Comedy, Mystery And Thriller,NaN,NaN,NaN,NaN
+YELLOW ROSE,86.0,82.0,"Drama, Music",2020-10-09,data/img/poster-3.jpg,Drama, Music,NaN,NaN,NaN,NaN
+AMERICAN SKIN,31.0,97.0,Drama,2021-01-15,data/img/poster-4.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+SOUL,96.0,88.0,"Comedy, Animation, Adventure, Kids And Family",2020-12-25,data/img/poster-5.jpg,Comedy, Animation, Adventure, Kids And Family,NaN,NaN
+SING ME A SONG,88.0,0.0,Documentary,2020-12-04,data/img/poster-6.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+BORN TO BE,100.0,0.0,Documentary,2020-11-18,data/img/poster-7.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+THE DELIVERED,93.0,0.0,"Drama, Horror",2021-01-15,data/img/poster-8.jpg,Drama, Horror,NaN,NaN,NaN,NaN
+PIECES OF A WOMAN,76.0,89.0,Drama,2020-12-30,data/img/poster-9.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+ASSASSINS,100.0,100.0,Documentary,2020-12-11,data/img/poster-10.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+SYLVIE'S LOVE,92.0,79.0,"Romance, Drama, Music",2020-12-23,data/img/poster-11.jpg,Romance, Drama, Music,NaN,NaN,NaN
+LOVE SARAH,55.0,68.0,Romance,2021-01-15,data/img/poster-12.jpg,Romance,NaN,NaN,NaN,NaN,NaN
+ONE NIGHT IN MIAMI,98.0,83.0,Drama,2020-12-25,data/img/poster-13.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+SHADOW IN THE CLOUD,78.0,31.0,"War, Action, Horror",2021-01-01,data/img/poster-15.jpg,War, Action, Horror,NaN,NaN,NaN
+TEN MINUTES TO MIDNIGHT,88.0,57.0,"Mystery And Thriller, Horror",2020-09-17,data/img/poster-16.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+SHORTCUT,58.0,24.0,"Horror, Mystery And Thriller",2020-09-25,data/img/poster-18.jpg,Horror, Mystery And Thriller,NaN,NaN,NaN,NaN
+THE MIDNIGHT SKY,50.0,26.0,"Sci Fi, Drama",2020-12-11,data/img/poster-19.jpg,Sci Fi, Drama,NaN,NaN,NaN,NaN
+PG: PSYCHO GOREMAN,89.0,66.0,"Horror, Comedy",2021-01-22,data/img/poster-20.jpg,Horror, Comedy,NaN,NaN,NaN,NaN
+BABY DONE,96.0,33.0,Comedy,2021-01-22,data/img/poster-21.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+WE CAN BE HEROES,73.0,45.0,"Adventure, Sci Fi, Fantasy, Action",2020-12-25,data/img/poster-22.jpg,Adventure, Sci Fi, Fantasy, Action,NaN,NaN
+DON'T TELL A SOUL,75.0,63.0,Mystery And Thriller,2021-01-15,data/img/poster-23.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+REDEMPTION DAY,16.0,61.0,"Mystery And Thriller, Action",2021-01-08,data/img/poster-24.jpg,Mystery And Thriller, Action,NaN,NaN,NaN,NaN
+YEARLY DEPARTED,80.0,58.0,"Comedy, Stand Up",2020-12-30,data/img/poster-25.jpg,Comedy, Stand Up,NaN,NaN,NaN,NaN
+THE ONE YOU FEED,33.0,0.0,"Mystery And Thriller, Drama",2020-12-29,data/img/poster-26.jpg,Mystery And Thriller, Drama,NaN,NaN,NaN,NaN
+"STALLONE: FRANK, THAT IS",57.0,0.0,Documentary,2021-01-05,data/img/poster-27.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+STARS FELL ON ALABAMA,64.0,67.0,Romance,2021-01-08,data/img/poster-28.jpg,Romance,NaN,NaN,NaN,NaN,NaN
+GUN AND A HOTEL BIBLE,60.0,100.0,Drama,2021-01-05,data/img/poster-29.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+"IF NOT NOW, WHEN?",53.0,0.0,Drama,2021-01-08,data/img/poster-30.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+"ARIANA GRANDE: EXCUSE ME, I LOVE YOU",50.0,91.0,"Documentary, Music",2020-12-21,data/img/poster-31.jpg,Documentary, Music,NaN,NaN,NaN,NaN
+LOCKED DOWN,45.0,33.0,"Comedy, Romance",2021-01-14,data/img/poster-32.jpg,Comedy, Romance,NaN,NaN,NaN,NaN
+KOKO-DI KOKO-DA,81.0,54.0,"Comedy, Horror",2020-11-06,data/img/poster-33.jpg,Comedy, Horror,NaN,NaN,NaN,NaN
+PRINCESS OF THE ROW,88.0,100.0,Drama,2020-11-27,data/img/poster-34.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+BILLIE,97.0,81.0,"Music, Documentary",2020-12-04,data/img/poster-35.jpg,Music, Documentary,NaN,NaN,NaN,NaN
+18 TO PARTY,57.0,0.0,Comedy,2020-11-06,data/img/poster-36.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+LUXOR,91.0,38.0,"Romance, Drama",2020-12-04,data/img/poster-38.jpg,Romance, Drama,NaN,NaN,NaN,NaN
+WANDER DARKLY,76.0,77.0,Drama,2020-12-11,data/img/poster-39.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+BEAST MODE,57.0,0.0,"Comedy, Horror",2020-12-01,data/img/poster-40.jpg,Comedy, Horror,NaN,NaN,NaN,NaN
+BLACK BEAR,87.0,60.0,Drama,2020-12-04,data/img/poster-41.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+TRAIN TO BUSAN PRESENTS: PENINSULA,53.0,76.0,"Horror, Action, Mystery And Thriller",2020-08-21,data/img/poster-42.jpg,Horror, Action, Mystery And Thriller,NaN,NaN,NaN
+COMFORT FARMS,67.0,0.0,Documentary,2020-12-08,data/img/poster-43.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+STARDUST,16.0,33.0,"Biography, Drama, Music",2020-11-25,data/img/poster-44.jpg,Biography, Drama, Music,NaN,NaN,NaN
+SURVIVAL SKILLS,86.0,83.0,Comedy,2020-11-13,data/img/poster-45.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+THE WALRUS AND THE WHISTLEBLOWER,40.0,0.0,Documentary,2020-10-09,data/img/poster-46.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+AMMONITE,67.0,85.0,"Romance, Drama",2020-11-13,data/img/poster-47.jpg,Romance, Drama,NaN,NaN,NaN,NaN
+RUN,91.0,76.0,Mystery And Thriller,2020-11-20,data/img/poster-48.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+A CHEF'S VOYAGE,67.0,0.0,Documentary,2020-09-18,data/img/poster-49.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+MINOR PREMISE,92.0,79.0,"Mystery And Thriller, Sci Fi",2020-12-04,data/img/poster-50.jpg,Mystery And Thriller, Sci Fi,NaN,NaN,NaN,NaN
+EMBATTLED,68.0,79.0,Drama,2020-11-20,data/img/poster-51.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+CROCK OF GOLD: A FEW ROUNDS WITH SHANE MACGOWAN,95.0,96.0,"Music, Documentary",2020-12-04,data/img/poster-52.jpg,Music, Documentary,NaN,NaN,NaN,NaN
+FATMAN,46.0,84.0,"Other, Fantasy, Mystery And Thriller, Comedy",2020-11-13,data/img/poster-53.jpg,Other, Fantasy, Mystery And Thriller, Comedy,NaN,NaN
+ARCHENEMY,73.0,52.0,"Mystery And Thriller, Action",2020-12-11,data/img/poster-54.jpg,Mystery And Thriller, Action,NaN,NaN,NaN,NaN
+"LOVE, WEDDINGS & OTHER DISASTERS",4.0,25.0,Romance,2020-12-04,data/img/poster-55.jpg,Romance,NaN,NaN,NaN,NaN,NaN
+WHAT LIES BELOW,43.0,57.0,Mystery And Thriller,2020-12-04,data/img/poster-56.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+KNUCKLEDUST,67.0,0.0,"Action, Mystery And Thriller",2020-12-11,data/img/poster-57.jpg,Action, Mystery And Thriller,NaN,NaN,NaN,NaN
+DEAR SANTA,92.0,0.0,"Other, Documentary",2020-12-04,data/img/poster-59.jpg,Other, Documentary,NaN,NaN,NaN,NaN
+I HATE NEW YEAR'S,60.0,75.0,"Other, Romance, Gay And Lesbian",2020-12-04,data/img/poster-60.jpg,Other, Romance, Gay And Lesbian,NaN,NaN,NaN
+KING OF KNIVES,78.0,100.0,"Comedy, Drama",2020-12-01,data/img/poster-61.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+ELYSE,50.0,17.0,Drama,2020-12-04,data/img/poster-62.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+IP MAN: KUNG FU MASTER,44.0,50.0,"Sports And Fitness, Action",2020-12-11,data/img/poster-63.jpg,Sports And Fitness, Action,NaN,NaN,NaN,NaN
+THE MYSTERY OF THE PINK FLAMINGO,100.0,0.0,Documentary,2020-12-01,data/img/poster-64.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+THE INFORMER,62.0,63.0,"Mystery And Thriller, Crime, Drama",2020-11-06,data/img/poster-65.jpg,Mystery And Thriller, Crime, Drama,NaN,NaN,NaN
+CREEM: AMERICA'S ONLY ROCK 'N' ROLL MAGAZINE,96.0,100.0,"Music, Documentary",2020-08-07,data/img/poster-66.jpg,Music, Documentary,NaN,NaN,NaN,NaN
+HONEY BEE,100.0,0.0,Drama,2020-11-10,data/img/poster-67.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+HEARTS AND BONES,81.0,60.0,Drama,2020-11-20,data/img/poster-68.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+LE CHOC DU FUTUR,79.0,0.0,"Comedy, Drama",2020-11-10,data/img/poster-69.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+A RAINY DAY IN NEW YORK,46.0,58.0,Comedy,2020-10-09,data/img/poster-70.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+COLLECTIVE,99.0,95.0,Documentary,2020-11-20,data/img/poster-71.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+JUNGLELAND,74.0,52.0,Drama,2020-11-06,data/img/poster-72.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+THE GIANT,50.0,0.0,Mystery And Thriller,2020-11-13,data/img/poster-73.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+IRON MASK,20.0,22.0,"Fantasy, Adventure, Action",2020-11-20,data/img/poster-74.jpg,Fantasy, Adventure, Action,NaN,NaN,NaN
+THE NEST,88.0,48.0,"Mystery And Thriller, Drama",2020-09-18,data/img/poster-75.jpg,Mystery And Thriller, Drama,NaN,NaN,NaN,NaN
+LIE EXPOSED,0.0,0.0,Drama,2020-09-25,data/img/poster-76.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+THE DONUT KING,97.0,90.0,Documentary,2020-10-30,data/img/poster-77.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+DATING AMBER,96.0,85.0,"Comedy, Drama",2020-11-10,data/img/poster-78.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+REPRESENT,100.0,0.0,Documentary,2020-08-14,data/img/poster-79.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+MORTAL,53.0,0.0,"Fantasy, Mystery And Thriller",2020-11-06,data/img/poster-80.jpg,Fantasy, Mystery And Thriller,NaN,NaN,NaN,NaN
+KINDRED,69.0,33.0,Mystery And Thriller,2020-11-06,data/img/poster-81.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+THE DARK AND THE WICKED,90.0,63.0,"Mystery And Thriller, Horror",2020-11-06,data/img/poster-83.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+TRIGGERED,48.0,0.0,"Mystery And Thriller, Action, Horror",2020-11-06,data/img/poster-84.jpg,Mystery And Thriller, Action, Horror,NaN,NaN,NaN
+CHICK FIGHT,36.0,32.0,"Comedy, Action, Sports And Fitness",2020-11-13,data/img/poster-85.jpg,Comedy, Action, Sports And Fitness,NaN,NaN,NaN
+THE DARK DIVIDE,92.0,80.0,"Adventure, Drama",2020-09-18,data/img/poster-86.jpg,Adventure, Drama,NaN,NaN,NaN,NaN
+ECHO BOOMERS,37.0,96.0,"Mystery And Thriller, Crime, Drama",2020-11-13,data/img/poster-87.jpg,Mystery And Thriller, Crime, Drama,NaN,NaN,NaN
+TEAM MARCO,63.0,0.0,"Comedy, Drama",2020-11-20,data/img/poster-88.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+JIU JITSU,28.0,72.0,"Fantasy, Action, Sci Fi",2020-11-20,data/img/poster-89.jpg,Fantasy, Action, Sci Fi,NaN,NaN,NaN
+WHERE SHE LIES,100.0,0.0,Documentary,2020-11-10,data/img/poster-90.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+THE ORANGE YEARS: THE NICKELODEON STORY,86.0,91.0,Documentary,2020-11-17,data/img/poster-91.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+MY SUMMER AS A GOTH,20.0,0.0,Drama,2020-11-11,data/img/poster-92.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+SLEEPLESS BEAUTY,40.0,0.0,Horror,2020-11-10,data/img/poster-93.jpg,Horror,NaN,NaN,NaN,NaN,NaN
+THEY REACH,43.0,86.0,"Mystery And Thriller, Horror",2020-11-03,data/img/poster-95.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+TRUTH IS THE ONLY CLIENT: THE OFFICIAL INVESTIGATION OF THE MURDER OF JOHN F. KENNEDY,100.0,0.0,Documentary,2020-11-17,data/img/poster-96.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+THE SOUNDING,71.0,0.0,"Mystery And Thriller, Drama",2020-10-10,data/img/poster-97.jpg,Mystery And Thriller, Drama,NaN,NaN,NaN,NaN
+THE DEVIL HAS A NAME,33.0,64.0,"Comedy, Drama",2020-10-16,data/img/poster-98.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+WOLFMAN'S GOT NARDS,100.0,60.0,"Horror, Documentary",2020-10-27,data/img/poster-99.jpg,Horror, Documentary,NaN,NaN,NaN,NaN
+"J.R. ""BOB"" DOBBS & THE CHURCH OF THE SUBGENIUS",100.0,35.0,"Comedy, Documentary",2020-10-16,data/img/poster-100.jpg,Comedy, Documentary,NaN,NaN,NaN,NaN
+THE WALL OF MEXICO,70.0,0.0,"Comedy, Drama",2020-09-18,data/img/poster-101.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+NOMAD: IN THE FOOTSTEPS OF BRUCE CHATWIN,92.0,50.0,Documentary,2020-04-08,data/img/poster-103.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+TERRA WILLY,100.0,85.0,"Adventure, Sci Fi, Kids And Family, Comedy, Animation",2020-10-23,data/img/poster-104.jpg,Adventure, Sci Fi, Kids And Family, Comedy, Animation,NaN
+THE TRUE ADVENTURES OF WOLFBOY,78.0,60.0,Drama,2020-10-30,data/img/poster-105.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+BULLETS OF JUSTICE,57.0,0.0,"Action, Comedy, Horror",2020-10-15,data/img/poster-106.jpg,Action, Comedy, Horror,NaN,NaN,NaN
+THE ANTENNA,55.0,0.0,"Mystery And Thriller, Horror",2020-10-02,data/img/poster-107.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+LOVE AND MONSTERS,92.0,89.0,"Comedy, Fantasy, Adventure",2020-10-16,data/img/poster-108.jpg,Comedy, Fantasy, Adventure,NaN,NaN,NaN
+SHITHOUSE,96.0,0.0,Comedy,2020-10-16,data/img/poster-109.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+AFTER WE COLLIDED,14.0,93.0,"Romance, Drama",2020-10-23,data/img/poster-110.jpg,Romance, Drama,NaN,NaN,NaN,NaN
+THE CRAFT: LEGACY,48.0,30.0,"Fantasy, Mystery And Thriller",2020-10-28,data/img/poster-111.jpg,Fantasy, Mystery And Thriller,NaN,NaN,NaN,NaN
+SPELL,47.0,59.0,"Horror, Mystery And Thriller",2020-10-30,data/img/poster-112.jpg,Horror, Mystery And Thriller,NaN,NaN,NaN,NaN
+OVER THE MOON,80.0,75.0,"Fantasy, Adventure, Kids And Family, Comedy, Musical, Animation",2020-10-23,data/img/poster-113.jpg,Fantasy, Adventure, Kids And Family, Comedy, Musical, Animation
+WHITE NOISE,86.0,79.0,Documentary,2020-10-21,data/img/poster-114.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+THE SECRETS WE KEEP,63.0,38.0,Mystery And Thriller,2020-09-16,data/img/poster-115.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+THE OPENING ACT,82.0,87.0,Comedy,2020-10-16,data/img/poster-117.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+FRIENDSGIVING,20.0,31.0,"Comedy, Other",2020-10-23,data/img/poster-118.jpg,Comedy, Other,NaN,NaN,NaN,NaN
+TAR,25.0,86.0,"Mystery And Thriller, Horror",2020-10-02,data/img/poster-119.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+"HARRY CHAPIN: WHEN IN DOUBT, DO SOMETHING",100.0,100.0,"Music, Documentary",2020-10-16,data/img/poster-120.jpg,Music, Documentary,NaN,NaN,NaN,NaN
+DON'T LOOK BACK,58.0,0.0,"Mystery And Thriller, Horror",2020-10-16,data/img/poster-121.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+CHOP CHOP,17.0,0.0,"Mystery And Thriller, Horror",2020-10-20,data/img/poster-122.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+TREMORS: SHRIEKER ISLAND,38.0,36.0,"Adventure, Horror",2020-10-20,data/img/poster-123.jpg,Adventure, Horror,NaN,NaN,NaN,NaN
+GREATLAND,40.0,93.0,"Adventure, Fantasy, Sci Fi",2020-11-01,data/img/poster-125.jpg,Adventure, Fantasy, Sci Fi,NaN,NaN,NaN
+LOVE IN DANGEROUS TIMES,80.0,0.0,"Comedy, Romance",2020-11-03,data/img/poster-126.jpg,Comedy, Romance,NaN,NaN,NaN,NaN
+ETERNAL BEAUTY,78.0,77.0,"Romance, Comedy, Drama",2020-10-02,data/img/poster-127.jpg,Romance, Comedy, Drama,NaN,NaN,NaN
+MS. WHITE LIGHT,57.0,80.0,Comedy,2020-10-06,data/img/poster-128.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+SIBYL,56.0,29.0,"Comedy, Drama",2020-09-11,data/img/poster-129.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+HALLOWEEN PARTY,60.0,0.0,"Mystery And Thriller, Horror",2020-10-02,data/img/poster-130.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+THE GLORIAS,68.0,67.0,"Biography, Drama",2020-09-30,data/img/poster-131.jpg,Biography, Drama,NaN,NaN,NaN,NaN
+AGGIE,75.0,0.0,Documentary,2020-10-07,data/img/poster-132.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+SCARE ME,83.0,70.0,Horror,2020-10-01,data/img/poster-133.jpg,Horror,NaN,NaN,NaN,NaN,NaN
+SAVE YOURSELVES!,88.0,60.0,"Comedy, Sci Fi",2020-10-02,data/img/poster-134.jpg,Comedy, Sci Fi,NaN,NaN,NaN,NaN
+A CALL TO SPY,73.0,85.0,"History, Drama",2020-10-02,data/img/poster-135.jpg,History, Drama,NaN,NaN,NaN,NaN
+TAPEWORM,75.0,0.0,"Comedy, Drama",2020-10-13,data/img/poster-136.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+12 HOUR SHIFT,76.0,46.0,"Comedy, Mystery And Thriller, Horror",2020-10-02,data/img/poster-137.jpg,Comedy, Mystery And Thriller, Horror,NaN,NaN,NaN
+BROIL,40.0,0.0,"Mystery And Thriller, Horror",2020-10-13,data/img/poster-138.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+THE RINGMASTER,95.0,95.0,Documentary,2020-10-06,data/img/poster-139.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+JIMMY CARTER: ROCK & ROLL PRESIDENT,95.0,92.0,"Music, Documentary",2020-09-09,data/img/poster-140.jpg,Music, Documentary,NaN,NaN,NaN,NaN
+FROM THE VINE,81.0,77.0,"Comedy, Drama",2020-10-09,data/img/poster-141.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+DEATH OF ME,32.0,36.0,"Mystery And Thriller, Horror",2020-10-02,data/img/poster-142.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+THE CURSE OF AUDREY EARNSHAW,76.0,0.0,"Mystery And Thriller, Horror",2020-10-02,data/img/poster-143.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+SPONTANEOUS,98.0,69.0,"Comedy, Horror",2020-10-02,data/img/poster-144.jpg,Comedy, Horror,NaN,NaN,NaN,NaN
+HOSTS,83.0,53.0,Horror,2020-10-02,data/img/poster-145.jpg,Horror,NaN,NaN,NaN,NaN,NaN
+THE DOORMAN,14.0,25.0,"Mystery And Thriller, Action",2020-10-08,data/img/poster-146.jpg,Mystery And Thriller, Action,NaN,NaN,NaN,NaN
+THEN CAME YOU,50.0,61.0,Romance,2020-09-30,data/img/poster-147.jpg,Romance,NaN,NaN,NaN,NaN,NaN
+TOTALLY UNDER CONTROL,99.0,86.0,Documentary,2020-10-13,data/img/poster-148.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+2067,31.0,45.0,"Mystery And Thriller, Sci Fi",2020-10-02,data/img/poster-149.jpg,Mystery And Thriller, Sci Fi,NaN,NaN,NaN,NaN
+THE DEVIL TO PAY,100.0,69.0,Mystery And Thriller,2020-10-02,data/img/poster-150.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+THE PHENOMENON,88.0,93.0,Documentary,2020-10-06,data/img/poster-151.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+THE WOLF OF SNOW HOLLOW,89.0,69.0,"Mystery And Thriller, Horror",2020-10-09,data/img/poster-152.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+LET'S SCARE JULIE,40.0,56.0,"Mystery And Thriller, Horror",2020-10-02,data/img/poster-154.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+HERB ALPERT IS...,82.0,0.0,Documentary,2020-10-02,data/img/poster-155.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+ROM BOYS: 40 YEARS OF RAD,100.0,100.0,Documentary,2020-10-13,data/img/poster-156.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+BATMAN: DEATH IN THE FAMILY,71.0,54.0,"Action, Animation, Drama",2020-10-13,data/img/poster-157.jpg,Action, Animation, Drama,NaN,NaN,NaN
+BUDDIES,100.0,42.0,Drama,1985-09-12,data/img/poster-158.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+LOST GIRLS & LOVE HOTELS,48.0,42.0,"Romance, Drama",2020-09-18,data/img/poster-159.jpg,Romance, Drama,NaN,NaN,NaN,NaN
+BUOYANCY,97.0,97.0,Drama,2020-09-11,data/img/poster-160.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+BLACKBIRD,60.0,0.0,Drama,2020-09-18,data/img/poster-162.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+H IS FOR HAPPINESS,76.0,0.0,"Comedy, Drama",2020-09-18,data/img/poster-163.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+HOUSE OF CARDIN,92.0,0.0,Documentary,2020-08-28,data/img/poster-164.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+LUZ: THE FLOWER OF EVIL,100.0,71.0,"Fantasy, Horror, Western",2020-09-15,data/img/poster-165.jpg,Fantasy, Horror, Western,NaN,NaN,NaN
+THE SWERVE,98.0,72.0,Drama,2020-09-22,data/img/poster-166.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+ALIVE,78.0,0.0,"Mystery And Thriller, Horror",2020-09-18,data/img/poster-167.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+ANTEBELLUM,28.0,53.0,Mystery And Thriller,2020-09-18,data/img/poster-168.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+TOSS IT,71.0,0.0,"Comedy, Romance, Drama",2019-09-19,data/img/poster-169.jpg,Comedy, Romance, Drama,NaN,NaN,NaN
+SHE'S IN PORTLAND,67.0,69.0,"Comedy, Drama",2020-09-25,data/img/poster-170.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+THE RACER,83.0,0.0,Drama,2020-09-18,data/img/poster-171.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+ALL ROADS TO PEARLA,60.0,0.0,"Mystery And Thriller, Crime, Drama",2020-09-25,data/img/poster-172.jpg,Mystery And Thriller, Crime, Drama,NaN,NaN,NaN
+THE ARTIST'S WIFE,68.0,78.0,Drama,2020-09-25,data/img/poster-173.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+TEENAGE BADASS,67.0,100.0,Comedy,2020-09-18,data/img/poster-174.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+MISBEHAVIOUR,86.0,53.0,"Comedy, Drama",2020-09-25,data/img/poster-175.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+RED SHOES AND THE SEVEN DWARFS,40.0,81.0,"Animation, Action",2020-09-14,data/img/poster-176.jpg,Animation, Action,NaN,NaN,NaN,NaN
+OTTOLENGHI AND THE CAKES OF VERSAILLES,71.0,0.0,Documentary,2020-09-25,data/img/poster-177.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+I'VE GOT ISSUES,67.0,0.0,"Comedy, Drama",2020-09-15,data/img/poster-178.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+DTF,67.0,0.0,Documentary,2020-09-15,data/img/poster-179.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+NO ESCAPE,20.0,47.0,"Mystery And Thriller, Horror",2020-09-18,data/img/poster-180.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+ALL IN: THE FIGHT FOR DEMOCRACY,100.0,72.0,Documentary,2020-09-09,data/img/poster-181.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+CATS & DOGS 3: PAWS UNITE!,11.0,26.0,"Comedy, Kids And Family, Adventure",2020-07-30,data/img/poster-182.jpg,Comedy, Kids And Family, Adventure,NaN,NaN,NaN
+SNO BABIES,25.0,99.0,Drama,2020-09-29,data/img/poster-183.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+MURDER IN THE WOODS,82.0,65.0,"Mystery And Thriller, Horror",2020-08-14,data/img/poster-184.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+STUNTWOMEN: THE UNTOLD HOLLYWOOD STORY,100.0,0.0,"Action, Documentary",2020-09-20,data/img/poster-185.jpg,Action, Documentary,NaN,NaN,NaN,NaN
+RESISTERHOOD,100.0,100.0,Documentary,2020-09-22,data/img/poster-186.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+LX 2048,47.0,70.0,Sci Fi,2020-09-25,data/img/poster-187.jpg,Sci Fi,NaN,NaN,NaN,NaN,NaN
+SUMMERLAND,88.0,82.0,Comedy,2020-09-14,data/img/poster-188.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+MULAN,73.0,49.0,"Adventure, Action",2020-09-04,data/img/poster-189.jpg,Adventure, Action,NaN,NaN,NaN,NaN
+BILL & TED FACE THE MUSIC,82.0,70.0,"Comedy, Fantasy, Adventure",2020-08-28,data/img/poster-190.jpg,Comedy, Fantasy, Adventure,NaN,NaN,NaN
+I HATE NEW YORK,100.0,0.0,Documentary,2020-09-01,data/img/poster-191.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+THE GARDEN LEFT BEHIND,92.0,88.0,Drama,2020-09-08,data/img/poster-192.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+HEIMAT IS A SPACE IN TIME,100.0,0.0,Documentary,2020-03-06,data/img/poster-193.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+CHILDREN OF THE SEA,61.0,60.0,"Fantasy, Animation, Adventure",2020-08-30,data/img/poster-194.jpg,Fantasy, Animation, Adventure,NaN,NaN,NaN
+MEASURE FOR MEASURE,36.0,83.0,Drama,2020-09-04,data/img/poster-195.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+I AM WOMAN,67.0,71.0,"Biography, Drama, Music",2020-09-11,data/img/poster-196.jpg,Biography, Drama, Music,NaN,NaN,NaN
+ENTWINED,65.0,0.0,"Fantasy, Horror",2020-08-28,data/img/poster-197.jpg,Fantasy, Horror,NaN,NaN,NaN,NaN
+NAIL IN THE COFFIN: THE FALL AND RISE OF VAMPIRO,100.0,50.0,Documentary,2020-09-08,data/img/poster-198.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+"BLOODY NOSE, EMPTY POCKETS",92.0,72.0,Documentary,2020-09-01,data/img/poster-200.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+FEELS GOOD MAN,96.0,82.0,Documentary,2020-09-04,data/img/poster-201.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+EPICENTRO,93.0,0.0,Documentary,2020-08-28,data/img/poster-202.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+THE MOLE AGENT,94.0,100.0,Documentary,2020-01-25,data/img/poster-203.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+FATIMA,62.0,94.0,"History, Drama",2020-08-28,data/img/poster-204.jpg,History, Drama,NaN,NaN,NaN,NaN
+FOLLOWED,71.0,46.0,Horror,2020-06-19,data/img/poster-206.jpg,Horror,NaN,NaN,NaN,NaN,NaN
+YOU CANNOT KILL DAVID ARQUETTE,83.0,90.0,Documentary,2020-08-21,data/img/poster-207.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+RENT-A-PAL,68.0,71.0,Mystery And Thriller,2020-09-11,data/img/poster-209.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+THE ARGUMENT,72.0,55.0,Comedy,2020-09-04,data/img/poster-210.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+UP ON THE GLASS,50.0,100.0,"Mystery And Thriller, Drama",2020-09-08,data/img/poster-211.jpg,Mystery And Thriller, Drama,NaN,NaN,NaN,NaN
+TOM OF YOUR LIFE,67.0,73.0,"Comedy, Drama, Sci Fi",2020-09-01,data/img/poster-212.jpg,Comedy, Drama, Sci Fi,NaN,NaN,NaN
+THE OWNERS,65.0,28.0,Mystery And Thriller,2020-09-04,data/img/poster-215.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+STILL HERE,29.0,90.0,"Mystery And Thriller, Drama",2020-08-28,data/img/poster-216.jpg,Mystery And Thriller, Drama,NaN,NaN,NaN,NaN
+ROBIN'S WISH,89.0,85.0,Documentary,2020-09-01,data/img/poster-217.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+IMMORTAL,88.0,97.0,"Drama, Mystery And Thriller",2020-09-01,data/img/poster-219.jpg,Drama, Mystery And Thriller,NaN,NaN,NaN,NaN
+FIRST ONE IN,100.0,80.0,Comedy,2020-09-08,data/img/poster-220.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+AMERICAN STREET KID,86.0,95.0,Documentary,2020-08-21,data/img/poster-221.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+RAVAGE,67.0,35.0,"Mystery And Thriller, Action, Horror",2020-08-14,data/img/poster-222.jpg,Mystery And Thriller, Action, Horror,NaN,NaN,NaN
+NaN,NaN,NaN,NaN,NaN,NaN,Horror,NaN,NaN,NaN,NaN,NaN
+OPEN 24 HOURS,40.0,34.0,Horror,2020-08-16,data/img/poster-224.jpg,Action, Adventure,NaN,NaN,NaN,NaN
+THE PREY,73.0,0.0,"Action, Adventure",2020-08-21,data/img/poster-226.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+SOMETIMES ALWAYS NEVER,82.0,68.0,"Comedy, Drama",2020-03-06,data/img/poster-227.jpg,Romance,NaN,NaN,NaN,NaN,NaN
+BENJAMIN,89.0,73.0,Romance,2020-08-25,data/img/poster-228.jpg,Romance,NaN,NaN,NaN,NaN,NaN
+CANE RIVER,100.0,38.0,Romance,2020-07-06,data/img/poster-229.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+PARIAH DOG,100.0,100.0,Documentary,2020-08-18,data/img/poster-230.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+DESERT ONE,90.0,0.0,Documentary,2020-08-21,data/img/poster-231.jpg,Comedy, Mystery And Thriller,NaN,NaN,NaN,NaN
+SPREE,65.0,58.0,"Comedy, Mystery And Thriller",2020-08-14,data/img/poster-232.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+HAPPY HAPPY JOY JOY: THE REN & STIMPY STORY,81.0,93.0,Documentary,2020-08-14,data/img/poster-233.jpg,History, Biography, Drama,NaN,NaN,NaN
+TESLA,59.0,43.0,"History, Biography, Drama",2020-08-21,data/img/poster-234.jpg,History, Biography, Drama,NaN,NaN,NaN
+EMPEROR,71.0,63.0,"History, Biography, Drama",2020-08-18,data/img/poster-235.jpg,Drama, History,NaN,NaN,NaN,NaN
+THE 24TH,78.0,94.0,"Drama, History",2020-08-21,data/img/poster-236.jpg,Mystery And Thriller, Crime, Drama,NaN,NaN,NaN
+DARKNESS FALLS,13.0,0.0,"Mystery And Thriller, Crime, Drama",2020-06-12,data/img/poster-237.jpg,Drama, Romance,NaN,NaN,NaN,NaN
+THE LAWYER,100.0,0.0,"Drama, Romance",2020-08-18,data/img/poster-238.jpg,Mystery And Thriller, Drama,NaN,NaN,NaN,NaN
+CENTIGRADE,40.0,23.0,"Mystery And Thriller, Drama",2020-08-28,data/img/poster-240.jpg,Mystery And Thriller, Action,NaN,NaN,NaN,NaN
+ONE NIGHT IN BANGKOK,33.0,37.0,"Mystery And Thriller, Action",2020-08-23,data/img/poster-241.jpg,Horror, Western,NaN,NaN,NaN,NaN
+THE PALE DOOR,49.0,67.0,"Horror, Western",2020-08-21,data/img/poster-242.jpg,Sci Fi, Mystery And Thriller, Horror,NaN,NaN,NaN
+THE HONEYMOON PHASE,75.0,0.0,"Sci Fi, Mystery And Thriller, Horror",2020-08-21,data/img/poster-243.jpg,Mystery And Thriller, Action,NaN,NaN,NaN,NaN
+ROGUE,67.0,0.0,"Mystery And Thriller, Action",2020-08-28,data/img/poster-244.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+THE VANISHED,21.0,0.0,Mystery And Thriller,2020-08-21,data/img/poster-245.jpg,Mystery And Thriller, Action,NaN,NaN,NaN,NaN
+HARD KILL,0.0,63.0,"Mystery And Thriller, Action",2020-08-25,data/img/poster-246.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+DRIVEN TO ABSTRACTION,67.0,0.0,Documentary,2020-08-28,data/img/poster-247.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+PRETENDING I'M A SUPERMAN: THE TONY HAWK VIDEO GAME STORY,93.0,80.0,Documentary,2020-08-18,data/img/poster-248.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+THE BLECH EFFECT,60.0,0.0,Documentary,2020-08-25,data/img/poster-249.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+SKIN: A HISTORY OF NUDITY IN THE MOVIES,83.0,78.0,Documentary,2020-08-18,data/img/poster-251.jpg,Music, Documentary,NaN,NaN,NaN,NaN
+JAZZ ON A SUMMER'S DAY,100.0,81.0,"Music, Documentary",2020-08-12,data/img/poster-252.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+THE WEEKEND,89.0,56.0,"Comedy, Drama",2014-03-14,data/img/poster-253.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+SWEET BEAN,85.0,85.0,"Comedy, Drama",2016-03-18,data/img/poster-254.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+HOUSE OF HUMMINGBIRD,100.0,68.0,Drama,2020-06-26,data/img/poster-255.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+OUT STEALING HORSES,79.0,83.0,Drama,2020-08-07,data/img/poster-256.jpg,Anime, Adventure, Sci Fi,NaN,NaN,NaN
+PROMARE,97.0,93.0,"Anime, Adventure, Sci Fi",2019-09-20,data/img/poster-258.jpg,Comedy, Anime,NaN,NaN,NaN,NaN
+RIDE YOUR WAVE,93.0,92.0,"Comedy, Anime",2020-08-04,data/img/poster-259.jpg,History, Drama,NaN,NaN,NaN,NaN
+WAITING FOR THE BARBARIANS,53.0,63.0,"History, Drama",2020-08-07,data/img/poster-260.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+FAGARA,100.0,88.0,Drama,2019-09-13,data/img/poster-261.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+RED PENGUINS,96.0,90.0,Documentary,2020-08-04,data/img/poster-262.jpg,Fantasy, Drama,NaN,NaN,NaN,NaN
+THE SECRET GARDEN,66.0,45.0,"Fantasy, Drama",2020-08-07,data/img/poster-263.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+A THOUSAND CUTS,100.0,67.0,Documentary,2020-08-07,data/img/poster-264.jpg,Mystery And Thriller, Drama,NaN,NaN,NaN,NaN
+SHE DIES TOMORROW,83.0,23.0,"Mystery And Thriller, Drama",2020-07-31,data/img/poster-267.jpg,Mystery And Thriller, Sci Fi, Horror,NaN,NaN,NaN
+SPUTNIK,89.0,72.0,"Mystery And Thriller, Sci Fi, Horror",2020-08-14,data/img/poster-268.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+MADE IN ITALY,49.0,44.0,"Comedy, Drama",2020-08-07,data/img/poster-269.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+"PSYCHOMAGIC, A HEALING ART",75.0,0.0,Documentary,2020-08-07,data/img/poster-270.jpg,Fantasy, Adventure,NaN,NaN,NaN,NaN
+MAX RELOAD AND THE NETHER BLASTERS,82.0,62.0,"Fantasy, Adventure",2020-08-07,data/img/poster-271.jpg,Romance, Drama,NaN,NaN,NaN,NaN
+ENDLESS,19.0,0.0,"Romance, Drama",2020-08-14,data/img/poster-272.jpg,Mystery And Thriller, Drama, Action, Crime,NaN,NaN
+PAYDIRT,22.0,25.0,"Mystery And Thriller, Drama, Action, Crime",2020-08-07,data/img/poster-273.jpg,Adventure, Sci Fi, Kids And Family, Comedy, Animation,NaN
+SAMSAM,20.0,0.0,"Adventure, Sci Fi, Kids And Family, Comedy, Animation",2020-08-07,data/img/poster-274.jpg,Mystery And Thriller, Crime, Drama,NaN,NaN,NaN
+THE TAX COLLECTOR,19.0,72.0,"Mystery And Thriller, Crime, Drama",2020-08-07,data/img/poster-275.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+IRL,100.0,0.0,Drama,2020-08-11,data/img/poster-276.jpg,Comedy, Horror,NaN,NaN,NaN,NaN
+UNCLE PECKERHEAD,100.0,0.0,"Comedy, Horror",2020-08-07,data/img/poster-277.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+THE BAY OF SILENCE,52.0,56.0,Mystery And Thriller,2020-08-14,data/img/poster-278.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+PEARL,57.0,0.0,Drama,2020-08-11,data/img/poster-279.jpg,Comedy, Music,NaN,NaN,NaN,NaN
+KAT AND THE BAND,60.0,0.0,"Comedy, Music",2020-08-11,data/img/poster-280.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+MONSTROUS,60.0,33.0,"Mystery And Thriller, Horror",2020-08-11,data/img/poster-281.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+THE AMERICAN NURSE,100.0,89.0,Documentary,2017-04-16,data/img/poster-282.jpg,Mystery And Thriller, Drama,NaN,NaN,NaN,NaN
+RETALIATION,80.0,0.0,"Mystery And Thriller, Drama",2020-07-24,data/img/poster-283.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+FISHERMAN'S FRIENDS,66.0,72.0,"Comedy, Drama",2020-07-24,data/img/poster-284.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+"YES, GOD, YES",94.0,67.0,Comedy,2020-07-24,data/img/poster-286.jpg,Drama, History,NaN,NaN,NaN,NaN
+SAMURAI MARATHON 1855,75.0,80.0,"Drama, History",2020-05-12,data/img/poster-287.jpg,Horror,NaN,NaN,NaN,NaN,NaN
+DEAD DICKS,100.0,50.0,Horror,2020-07-28,data/img/poster-288.jpg,Comedy, Adventure,NaN,NaN,NaN,NaN
+LAKE MICHIGAN MONSTER,84.0,0.0,"Comedy, Adventure",2020-08-03,data/img/poster-289.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+DON'T BE NICE,100.0,86.0,Documentary,2019-09-20,data/img/poster-290.jpg,Adventure, Sci Fi, Action,NaN,NaN,NaN
+GUNDALA,83.0,74.0,"Adventure, Sci Fi, Action",2020-07-28,data/img/poster-291.jpg,Crime, Mystery And Thriller, Drama,NaN,NaN,NaN
+THE SHADOW OF VIOLENCE,94.0,68.0,"Crime, Mystery And Thriller, Drama",2020-07-31,data/img/poster-292.jpg,Romance, Drama,NaN,NaN,NaN,NaN
+THE SECRET: DARE TO DREAM,27.0,73.0,"Romance, Drama",2020-07-31,data/img/poster-293.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+AMULET,70.0,41.0,"Mystery And Thriller, Horror",2020-07-24,data/img/poster-294.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+REBUILDING PARADISE,92.0,75.0,Documentary,2020-07-31,data/img/poster-295.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+THE FIGHT,98.0,68.0,Documentary,2020-07-31,data/img/poster-296.jpg,Horror,NaN,NaN,NaN,NaN,NaN
+BLOOD VESSEL,73.0,24.0,Horror,2020-07-16,data/img/poster-297.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+THE RENTAL,75.0,45.0,"Mystery And Thriller, Horror",2020-07-24,data/img/poster-298.jpg,Crime, Mystery And Thriller, Drama,NaN,NaN,NaN
+MOST WANTED,68.0,46.0,"Crime, Mystery And Thriller, Drama",2020-07-24,data/img/poster-299.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+TIJUANA JACKSON: PURPOSE OVER PRISON,67.0,98.0,Comedy,2020-07-24,data/img/poster-300.jpg,Mystery And Thriller, Action,NaN,NaN,NaN,NaN
+LEGACY OF LIES,86.0,49.0,"Mystery And Thriller, Action",2020-07-26,data/img/poster-301.jpg,Crime, Drama,NaN,NaN,NaN,NaN
+THE BIG UGLY,41.0,87.0,"Crime, Drama",2020-07-31,data/img/poster-302.jpg,Sci Fi, Action, Horror,NaN,NaN,NaN
+DEEP BLUE SEA 3,71.0,37.0,"Sci Fi, Action, Horror",2020-07-05,data/img/poster-303.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+SENIOR LOVE TRIANGLE,88.0,0.0,Drama,2020-08-03,data/img/poster-304.jpg,Animation, Adventure, Action,NaN,NaN,NaN
+DEATHSTROKE: KNIGHTS & DRAGONS,80.0,55.0,"Animation, Adventure, Action",2020-07-05,data/img/poster-305.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+HELMUT NEWTON: THE BAD AND THE BEAUTIFUL,73.0,0.0,Documentary,2020-07-24,data/img/poster-307.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+HOST,100.0,75.0,"Mystery And Thriller, Horror",2020-07-30,data/img/poster-308.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+STARS AND STRIFE,90.0,0.0,Documentary,2020-08-04,data/img/poster-309.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+BUSMAN'S HOLIDAY,86.0,0.0,Drama,2020-07-25,data/img/poster-310.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+GAME OF DEATH,57.0,24.0,"Mystery And Thriller, Horror",2020-07-03,data/img/poster-311.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+WE ARE LITTLE ZOMBIES,92.0,64.0,Drama,2020-07-10,data/img/poster-312.jpg,Romance,NaN,NaN,NaN,NaN,NaN
+THE SUNLIT NIGHT,35.0,54.0,Romance,2020-07-17,data/img/poster-313.jpg,Sci Fi,NaN,NaN,NaN,NaN,NaN
+SKYMAN,63.0,83.0,Sci Fi,2020-06-30,data/img/poster-314.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+TITO,80.0,0.0,"Comedy, Drama",2020-07-10,data/img/poster-315.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+GUEST ARTIST,63.0,33.0,Drama,2020-07-19,data/img/poster-316.jpg,Romance, Drama, Fantasy, Gay And Lesbian,NaN,NaN
+CARMILLA,71.0,0.0,"Romance, Drama, Fantasy, Gay And Lesbian",2020-07-17,data/img/poster-317.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+GUEST OF HONOUR,42.0,57.0,Drama,2020-07-10,data/img/poster-318.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+THE PAINTED BIRD,82.0,56.0,Drama,2020-07-17,data/img/poster-319.jpg,Mystery And Thriller, Sci Fi,NaN,NaN,NaN,NaN
+VOLITION,88.0,81.0,"Mystery And Thriller, Sci Fi",2020-07-10,data/img/poster-320.jpg,Romance,NaN,NaN,NaN,NaN,NaN
+DIRT MUSIC,30.0,54.0,Romance,2020-07-17,data/img/poster-321.jpg,Drama, Western,NaN,NaN,NaN,NaN
+FIRST COW,95.0,60.0,"Drama, Western",2020-03-06,data/img/poster-322.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+THE PRINCE,93.0,80.0,Drama,2020-07-07,data/img/poster-323.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+AI WEIWEI: YOURS TRULY,83.0,0.0,Documentary,2020-07-08,data/img/poster-324.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+BLESSED CHILD,91.0,0.0,Documentary,2020-07-17,data/img/poster-325.jpg,Horror, Drama,NaN,NaN,NaN,NaN
+RELIC,91.0,49.0,"Horror, Drama",2020-07-10,data/img/poster-326.jpg,Comedy, Sports And Fitness, Action,NaN,NaN,NaN
+ENTER THE FAT DRAGON,64.0,90.0,"Comedy, Sports And Fitness, Action",2020-02-14,data/img/poster-327.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+ANIMATION OUTLAWS,100.0,0.0,Documentary,2020-07-12,data/img/poster-328.jpg,Sci Fi,NaN,NaN,NaN,NaN,NaN
+ARCHIVE,77.0,66.0,Sci Fi,2020-07-10,data/img/poster-329.jpg,Comedy, Sci Fi,NaN,NaN,NaN,NaN
+ELVIS FROM OUTER SPACE,0.0,0.0,"Comedy, Sci Fi",2020-07-07,data/img/poster-330.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+"I, PASTAFARI",75.0,79.0,Documentary,2020-07-07,data/img/poster-331.jpg,Comedy, Drama, Music,NaN,NaN,NaN
+MIGHTY OAK,61.0,88.0,"Comedy, Drama, Music",2020-06-05,data/img/poster-332.jpg,Mystery And Thriller, Action,NaN,NaN,NaN,NaN
+MONEY PLANE,23.0,38.0,"Mystery And Thriller, Action",2020-07-10,data/img/poster-334.jpg,Comedy, Sci Fi,NaN,NaN,NaN,NaN
+USELESS HUMANS,40.0,95.0,"Comedy, Sci Fi",2020-07-14,data/img/poster-335.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+NEVER TOO LATE,53.0,40.0,"Comedy, Drama",2020-07-10,data/img/poster-336.jpg,Horror,NaN,NaN,NaN,NaN,NaN
+THE BEACH HOUSE,81.0,28.0,Horror,2020-07-09,data/img/poster-337.jpg,Comedy, Adventure,NaN,NaN,NaN,NaN
+EASY DOES IT,29.0,79.0,"Comedy, Adventure",2020-07-17,data/img/poster-338.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+BROWSE,20.0,0.0,Mystery And Thriller,2020-07-08,data/img/poster-339.jpg,Romance,NaN,NaN,NaN,NaN,NaN
+A NICE GIRL LIKE YOU,11.0,48.0,Romance,2020-07-15,data/img/poster-340.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+THE SILENCING,17.0,90.0,Mystery And Thriller,2020-08-14,data/img/poster-341.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+SHOWBIZ KIDS,96.0,75.0,Documentary,2021-01-10,data/img/poster-342.jpg,Romance, Drama, Music,NaN,NaN,NaN
+VIENA AND THE FANTOMES,20.0,25.0,"Romance, Drama, Music",2020-06-30,data/img/poster-343.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+THE GHOST OF PETER SELLERS,95.0,67.0,Documentary,2020-06-23,data/img/poster-344.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+THE LAST TREE,98.0,64.0,Drama,2020-06-26,data/img/poster-345.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+BEATS,98.0,76.0,"Comedy, Drama",2020-09-02,data/img/poster-346.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+A REGULAR WOMAN,94.0,0.0,Drama,2020-06-26,data/img/poster-348.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+SCHEME BIRDS,91.0,0.0,Documentary,2020-07-06,data/img/poster-349.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+ALL I CAN SAY,80.0,88.0,Documentary,2020-06-26,data/img/poster-350.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+"FAMILY ROMANCE, LLC",74.0,64.0,Drama,2020-07-03,data/img/poster-351.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+THE TRUTH,88.0,66.0,Drama,2020-07-01,data/img/poster-352.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+BLACK MAGIC FOR WHITE BOYS,80.0,0.0,Comedy,2020-07-03,data/img/poster-353.jpg,Drama, War,NaN,NaN,NaN,NaN
+THE OUTPOST,92.0,82.0,"Drama, War",2020-07-03,data/img/poster-354.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+DAS VORSPIEL,79.0,40.0,Drama,2020-06-26,data/img/poster-355.jpg,Music, Documentary,NaN,NaN,NaN,NaN
+SUZI Q,100.0,100.0,"Music, Documentary",2020-07-01,data/img/poster-356.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+JOHN LEWIS: GOOD TROUBLE,96.0,70.0,Documentary,2020-07-03,data/img/poster-357.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+WELCOME TO CHECHNYA,100.0,85.0,Documentary,2020-07-03,data/img/poster-358.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+IRRESISTIBLE,40.0,66.0,Comedy,2020-06-26,data/img/poster-359.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+DISCLOSURE,100.0,0.0,Drama,2020-06-26,data/img/poster-360.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+ASK NO QUESTIONS,100.0,86.0,Documentary,2020-06-28,data/img/poster-361.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+BEYOND DRIVEN,100.0,0.0,Documentary,2020-06-30,data/img/poster-362.jpg,Fantasy,NaN,NaN,NaN,NaN,NaN
+FOUR KIDS AND IT,49.0,26.0,Fantasy,2020-06-30,data/img/poster-363.jpg,Comedy, Horror,NaN,NaN,NaN,NaN
+TWO HEADS CREEK,90.0,71.0,"Comedy, Horror",2020-06-26,data/img/poster-364.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+MONEY MACHINE,44.0,80.0,Documentary,2020-07-03,data/img/poster-365.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+MANCHILD: THE SCHEA COTTON STORY,100.0,86.0,Documentary,2020-06-21,data/img/poster-366.jpg,Mystery And Thriller, Action,NaN,NaN,NaN,NaN
+FORCE OF NATURE,9.0,17.0,"Mystery And Thriller, Action",2020-06-30,data/img/poster-367.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+MADAGASIKARA,89.0,0.0,Documentary,2020-06-26,data/img/poster-368.jpg,Crime, Mystery And Thriller, Drama,NaN,NaN,NaN
+RUN WITH THE HUNTED,0.0,27.0,"Crime, Mystery And Thriller, Drama",2020-06-26,data/img/poster-369.jpg,Music, Documentary,NaN,NaN,NaN,NaN
+DENISE HO: BECOMING THE SONG,90.0,0.0,"Music, Documentary",2020-08-03,data/img/poster-370.jpg,Horror, Mystery And Thriller,NaN,NaN,NaN,NaN
+METAMORPHOSIS,33.0,47.0,"Horror, Mystery And Thriller",2020-07-02,data/img/poster-371.jpg,Comedy, Fantasy, Drama, Sci Fi,NaN,NaN
+BABY FRANKENSTEIN,83.0,80.0,"Comedy, Fantasy, Drama, Sci Fi",2018-10-26,data/img/poster-372.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+HILL OF FREEDOM,82.0,55.0,Drama,2020-06-12,data/img/poster-373.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+CANIBA,59.0,33.0,Documentary,2018-10-19,data/img/poster-374.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+WHAT SHE SAID: THE ART OF PAULINE KAEL,88.0,56.0,Documentary,2019-12-25,data/img/poster-375.jpg,Comedy, Animation, Adventure, Kids And Family,NaN,NaN
+STARDOG AND TURBOCAT,50.0,50.0,"Comedy, Animation, Adventure, Kids And Family",2020-06-19,data/img/poster-377.jpg,Comedy, Mystery And Thriller, Crime, Drama,NaN,NaN
+KNIVES OUT,97.0,92.0,"Comedy, Mystery And Thriller, Crime, Drama",2019-11-27,data/img/poster-378.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+MOPE,50.0,0.0,Drama,2020-06-16,data/img/poster-379.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+THE SHORT HISTORY OF THE LONG ROAD,91.0,86.0,Drama,2020-05-15,data/img/poster-380.jpg,Animation, Drama,NaN,NaN,NaN,NaN
+MARONA'S FANTASTIC TALE,95.0,100.0,"Animation, Drama",2020-06-12,data/img/poster-381.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+BABYTEETH,94.0,82.0,"Comedy, Drama",2020-06-18,data/img/poster-382.jpg,Comedy, Horror,NaN,NaN,NaN,NaN
+DRIVEN,71.0,62.0,"Comedy, Horror",2019-02-09,data/img/poster-383.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+ZANA,100.0,0.0,Drama,2020-06-12,data/img/poster-385.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+BULLY. COWARD. VICTIM. THE STORY OF ROY COHN,74.0,53.0,Documentary,2020-06-19,data/img/poster-386.jpg,Mystery And Thriller, Drama,NaN,NaN,NaN,NaN
+EXIT PLAN,38.0,29.0,"Mystery And Thriller, Drama",2020-06-12,data/img/poster-387.jpg,Comedy, Horror,NaN,NaN,NaN,NaN
+SCARE PACKAGE,80.0,83.0,"Comedy, Horror",2020-06-19,data/img/poster-388.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+MISS JUNETEENTH,100.0,58.0,Drama,2020-06-19,data/img/poster-389.jpg,Drama, Comedy,NaN,NaN,NaN,NaN
+THE KING OF STATEN ISLAND,74.0,84.0,"Drama, Comedy",2020-05-28,data/img/poster-390.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+GHOSTS OF WAR,38.0,41.0,"Mystery And Thriller, Horror",2020-06-18,data/img/poster-391.jpg,Action,NaN,NaN,NaN,NaN,NaN
+I AM VENGEANCE: RETALIATION,44.0,18.0,Action,2020-06-19,data/img/poster-392.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+MY DARLING VIVIAN,95.0,94.0,Documentary,2020-06-19,data/img/poster-393.jpg,Romance, Documentary,NaN,NaN,NaN,NaN
+SHOOT TO MARRY,76.0,0.0,"Romance, Documentary",2020-06-14,data/img/poster-394.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+THE DEPARTURE,50.0,0.0,Drama,2020-06-12,data/img/poster-396.jpg,Horror,NaN,NaN,NaN,NaN,NaN
+THE SOUL COLLECTOR,73.0,78.0,Horror,2020-06-04,data/img/poster-397.jpg,Romance,NaN,NaN,NaN,NaN,NaN
+DADDY ISSUES,0.0,0.0,Romance,2020-06-23,data/img/poster-398.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+FEEL THE BEAT,47.0,57.0,Drama,2020-06-22,data/img/poster-399.jpg,Horror,NaN,NaN,NaN,NaN,NaN
+AQUASLASH,29.0,31.0,Horror,2020-06-23,data/img/poster-400.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+YOU SHOULD HAVE LEFT,40.0,23.0,"Mystery And Thriller, Horror",2020-06-19,data/img/poster-401.jpg,Biography, Comedy, Documentary,NaN,NaN,NaN
+NEVER BE DONE: THE RICHARD GLEN LETT STORY,100.0,98.0,"Biography, Comedy, Documentary",2020-06-15,data/img/poster-402.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+JACK & YAYA,100.0,0.0,Documentary,2020-07-06,data/img/poster-403.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+THE POLLINATORS,75.0,0.0,Documentary,2020-06-14,data/img/poster-404.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+I LIKE MONEY,50.0,0.0,Comedy,1962-05-18,data/img/poster-405.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+THE PRICE OF DESIRE,25.0,0.0,Drama,2020-05-29,data/img/poster-406.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+BURDEN,52.0,97.0,Drama,2020-02-28,data/img/poster-407.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+THE INFILTRATORS,87.0,0.0,Drama,2020-05-29,data/img/poster-408.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+JUDY & PUNCH,77.0,60.0,Comedy,2020-06-05,data/img/poster-409.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+YOU DON'T NOMI,88.0,58.0,Documentary,2020-06-09,data/img/poster-410.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+SEAHORSE: THE DAD WHO GAVE BIRTH,100.0,0.0,Documentary,2020-06-16,data/img/poster-412.jpg,Romance, Drama,NaN,NaN,NaN,NaN
+AND THEN WE DANCED,93.0,95.0,"Romance, Drama",2020-02-07,data/img/poster-413.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+TOMMASO,79.0,33.0,Drama,2020-06-05,data/img/poster-414.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+THIS TEACHER,100.0,0.0,Drama,2020-06-09,data/img/poster-415.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+END OF SENTENCE,93.0,90.0,Drama,2020-05-29,data/img/poster-416.jpg,Comedy, Drama, Music,NaN,NaN,NaN
+THE HIGH NOTE,70.0,72.0,"Comedy, Drama, Music",2020-06-25,data/img/poster-417.jpg,Drama, Mystery And Thriller,NaN,NaN,NaN,NaN
+SHIRLEY,87.0,55.0,"Drama, Mystery And Thriller",2020-06-05,data/img/poster-419.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+LOST IN AMERICA,100.0,90.0,Documentary,2020-02-28,data/img/poster-420.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+THE MAN STANDING NEXT,80.0,100.0,Drama,2020-01-31,data/img/poster-421.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+I WILL MAKE YOU MINE,100.0,100.0,Drama,2020-05-29,data/img/poster-422.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+RETURN TO HARDWICK,100.0,100.0,Documentary,2020-06-07,data/img/poster-423.jpg,Comedy, Crime, Drama,NaN,NaN,NaN
+DREAMLAND,55.0,0.0,"Comedy, Crime, Drama",2020-06-05,data/img/poster-424.jpg,Comedy, Fantasy, Kids And Family,NaN,NaN,NaN
+THINK LIKE A DOG,70.0,50.0,"Comedy, Fantasy, Kids And Family",2020-06-08,data/img/poster-425.jpg,Mystery And Thriller, Action,NaN,NaN,NaN,NaN
+DEBT COLLECTORS,82.0,0.0,"Mystery And Thriller, Action",2020-05-29,data/img/poster-426.jpg,Drama, Mystery And Thriller, Crime,NaN,NaN,NaN
+THE COLLINI CASE,83.0,65.0,"Drama, Mystery And Thriller, Crime",2020-06-04,data/img/poster-427.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+THE ACCOMPANIST,0.0,0.0,Drama,2020-05-30,data/img/poster-428.jpg,Mystery And Thriller, Drama,NaN,NaN,NaN,NaN
+A CLEAR SHOT,0.0,0.0,"Mystery And Thriller, Drama",2020-05-28,data/img/poster-429.jpg,Horror,NaN,NaN,NaN,NaN,NaN
+THE CANDY WITCH,17.0,0.0,Horror,2020-06-09,data/img/poster-431.jpg,Crime, Mystery And Thriller, Drama,NaN,NaN,NaN
+HAMMER,79.0,65.0,"Crime, Mystery And Thriller, Drama",2020-06-04,data/img/poster-432.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+BECKY,72.0,56.0,Mystery And Thriller,2020-06-05,data/img/poster-433.jpg,Sci Fi, Action,NaN,NaN,NaN,NaN
+THE BLACKOUT,57.0,65.0,"Sci Fi, Action",2020-05-22,data/img/poster-434.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+URSULA VON RYDINGSVARD: INTO HER OWN,100.0,0.0,Documentary,2020-05-29,data/img/poster-435.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+CITIZENS OF THE WORLD,100.0,0.0,Comedy,2021-01-07,data/img/poster-436.jpg,Adventure,NaN,NaN,NaN,NaN,NaN
+RAD,40.0,90.0,Adventure,2017-03-13,data/img/poster-437.jpg,Comedy, Animation, Adventure, Kids And Family,NaN,NaN
+SCOOB!,47.0,54.0,"Comedy, Animation, Adventure, Kids And Family",2020-05-15,data/img/poster-438.jpg,Crime, Drama, Action, Documentary,NaN,NaN
+MIDNIGHT FAMILY,97.0,84.0,"Crime, Drama, Action, Documentary",2019-12-06,data/img/poster-440.jpg,Romance, Drama,NaN,NaN,NaN,NaN
+PREMATURE,92.0,68.0,"Romance, Drama",2020-02-21,data/img/poster-441.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+FOURTEEN,98.0,58.0,Drama,2020-05-15,data/img/poster-442.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+NOTHING FANCY: DIANA KENNEDY,100.0,0.0,Documentary,2020-05-22,data/img/poster-443.jpg,Romance,NaN,NaN,NaN,NaN,NaN
+OLYMPIC DREAMS,70.0,57.0,Romance,2020-02-14,data/img/poster-444.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+LUCKY GRANDMA,95.0,69.0,Drama,2020-05-22,data/img/poster-445.jpg,Crime, Biography, Drama,NaN,NaN,NaN
+THE TRAITOR,84.0,70.0,"Crime, Biography, Drama",2020-01-31,data/img/poster-446.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+KATE NASH: UNDERESTIMATE THE GIRL,88.0,0.0,Documentary,2020-09-17,data/img/poster-447.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+CHAMELEON,100.0,79.0,Mystery And Thriller,2020-05-12,data/img/poster-448.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+CASTLE IN THE GROUND,66.0,58.0,Drama,2020-05-15,data/img/poster-449.jpg,Drama, Comedy,NaN,NaN,NaN,NaN
+MILITARY WIVES,77.0,59.0,"Drama, Comedy",2020-05-22,data/img/poster-450.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+THE PAINTER AND THE THIEF,97.0,84.0,Documentary,2020-05-22,data/img/poster-452.jpg,Romance,NaN,NaN,NaN,NaN,NaN
+"I LOVE YOU, STUPID",63.0,62.0,Romance,2020-05-19,data/img/poster-453.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+THE DALAI LAMA: SCIENTIST,88.0,100.0,Documentary,2020-05-12,data/img/poster-454.jpg,Mystery And Thriller, Action,NaN,NaN,NaN,NaN
+VILLAIN,71.0,0.0,"Mystery And Thriller, Action",2020-05-22,data/img/poster-455.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+AKA JANE ROE,88.0,70.0,Documentary,2020-05-23,data/img/poster-456.jpg,Mystery And Thriller, Action,NaN,NaN,NaN,NaN
+SURVIVE THE NIGHT,15.0,60.0,"Mystery And Thriller, Action",2020-05-22,data/img/poster-457.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+INHERITANCE,25.0,0.0,Mystery And Thriller,2020-05-22,data/img/poster-458.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+THE WRONG MISSY,33.0,51.0,Comedy,2020-05-19,data/img/poster-459.jpg,Comedy, Horror,NaN,NaN,NaN,NaN
+GIRLS JUST WANNA HAVE BLOOD,0.0,0.0,"Comedy, Horror",2020-05-26,data/img/poster-460.jpg,Horror,NaN,NaN,NaN,NaN,NaN
+EVIL LITTLE THINGS,50.0,0.0,Horror,2020-05-12,data/img/poster-461.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+SCREENED OUT,79.0,0.0,Documentary,2020-05-26,data/img/poster-462.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+THE TRIP TO GREECE,87.0,48.0,Comedy,2020-05-22,data/img/poster-463.jpg,Sci Fi,NaN,NaN,NaN,NaN,NaN
+PROXIMITY,39.0,34.0,Sci Fi,2020-05-15,data/img/poster-465.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+BODY CAM,46.0,38.0,"Mystery And Thriller, Horror",2020-05-19,data/img/poster-466.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+MAN IN CAMO,100.0,100.0,Documentary,2020-05-29,data/img/poster-468.jpg,Romance, Musical,NaN,NaN,NaN,NaN
+VALLEY GIRL,57.0,84.0,"Romance, Musical",2020-05-05,data/img/poster-469.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+WORKING MAN,93.0,82.0,Drama,2020-05-05,data/img/poster-470.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+DRIVEWAYS,100.0,86.0,Drama,2020-05-08,data/img/poster-471.jpg,Comedy, Horror,NaN,NaN,NaN,NaN
+PORNO,81.0,38.0,"Comedy, Horror",2020-05-08,data/img/poster-472.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+SAINT FRANCES,99.0,79.0,"Comedy, Drama",2020-02-28,data/img/poster-473.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+CRSHD,75.0,60.0,Comedy,2020-08-02,data/img/poster-474.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+CLEMENTINE,65.0,60.0,Drama,2020-07-14,data/img/poster-475.jpg,Drama, Documentary,NaN,NaN,NaN,NaN
+REWIND,100.0,96.0,"Drama, Documentary",2020-06-12,data/img/poster-476.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+BULL,90.0,68.0,Drama,2020-04-29,data/img/poster-477.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+ON A MAGICAL NIGHT,65.0,21.0,"Comedy, Drama",2020-08-08,data/img/poster-478.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+BEANPOLE,92.0,77.0,Drama,2020-01-29,data/img/poster-479.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+Z,97.0,57.0,"Mystery And Thriller, Horror",2020-05-08,data/img/poster-480.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+BETTER DAYS,100.0,97.0,Drama,2019-11-08,data/img/poster-481.jpg,Crime, Mystery And Thriller, Drama,NaN,NaN,NaN
+A GOOD WOMAN IS HARD TO FIND,92.0,67.0,"Crime, Mystery And Thriller, Drama",2020-05-08,data/img/poster-482.jpg,Horror,NaN,NaN,NaN,NaN,NaN
+THE JACK IN THE BOX,20.0,50.0,Horror,2020-05-05,data/img/poster-483.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+GREED,48.0,33.0,Comedy,2020-03-06,data/img/poster-484.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+HOW TO BUILD A GIRL,79.0,56.0,Comedy,2020-05-08,data/img/poster-485.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+SWEETNESS IN THE BELLY,40.0,75.0,Drama,2020-05-08,data/img/poster-486.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+INTRIGO: DEAR AGNES,40.0,0.0,Mystery And Thriller,2020-05-05,data/img/poster-487.jpg,Crime, Drama,NaN,NaN,NaN,NaN
+BLUE STORY,92.0,67.0,"Crime, Drama",2020-05-05,data/img/poster-488.jpg,Romance, Drama,NaN,NaN,NaN,NaN
+ANGELFISH,86.0,0.0,"Romance, Drama",2019-11-22,data/img/poster-489.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+NATALIE WOOD: WHAT REMAINS BEHIND,78.0,79.0,Documentary,2020-05-06,data/img/poster-490.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+SPACESHIP EARTH,87.0,61.0,Documentary,2020-05-08,data/img/poster-491.jpg,Comedy, Mystery And Thriller, Crime, Drama,NaN,NaN
+ARKANSAS,46.0,52.0,"Comedy, Mystery And Thriller, Crime, Drama",2020-05-05,data/img/poster-492.jpg,Adventure, Animation, Action,NaN,NaN,NaN
+JUSTICE LEAGUE DARK: APOKOLIPS WAR,100.0,91.0,"Adventure, Animation, Action",2020-05-05,data/img/poster-493.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+18 PRESENTS,60.0,64.0,Drama,2020-05-19,data/img/poster-498.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+BECOMING,93.0,57.0,Documentary,2020-05-07,data/img/poster-499.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+FAME-ISH,88.0,0.0,Comedy,2020-05-12,data/img/poster-500.jpg,Comedy, Animation, Kids And Family,NaN,NaN,NaN
+THE WILLOUGHBYS,91.0,64.0,"Comedy, Animation, Kids And Family",2020-04-22,data/img/poster-501.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+UNTIL THE BIRDS RETURN,78.0,80.0,Drama,2020-04-28,data/img/poster-502.jpg,Comedy, Horror,NaN,NaN,NaN,NaN
+BIT,90.0,40.0,"Comedy, Horror",2020-04-24,data/img/poster-503.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+TO THE STARS,81.0,77.0,Drama,2020-04-24,data/img/poster-504.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+PAHOKEE,100.0,0.0,Documentary,2020-06-14,data/img/poster-505.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+DEERSKIN,87.0,67.0,Comedy,2020-06-26,data/img/poster-506.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+THE FLOOD,68.0,0.0,Drama,2020-02-28,data/img/poster-507.jpg,History, Drama, War,NaN,NaN,NaN
+ROBERT THE BRUCE,44.0,66.0,"History, Drama, War",2020-04-24,data/img/poster-508.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+1BR,87.0,52.0,"Mystery And Thriller, Horror",2020-04-24,data/img/poster-509.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+THE WRETCHED,74.0,46.0,"Mystery And Thriller, Horror",2020-05-01,data/img/poster-510.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+BAD EDUCATION,94.0,84.0,"Comedy, Drama",2020-04-26,data/img/poster-511.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+"ENDINGS, BEGINNINGS",44.0,45.0,Drama,2020-05-01,data/img/poster-512.jpg,Horror,NaN,NaN,NaN,NaN,NaN
+BLOOD QUANTUM,90.0,39.0,Horror,2020-04-28,data/img/poster-514.jpg,Drama, Crime, Biography,NaN,NaN,NaN
+TRUE HISTORY OF THE KELLY GANG,79.0,41.0,"Drama, Crime, Biography",2020-04-24,data/img/poster-515.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+WITCHES IN THE WOODS,57.0,53.0,"Mystery And Thriller, Horror",2020-04-24,data/img/poster-516.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+CAPITAL IN THE TWENTY-FIRST CENTURY,93.0,73.0,Documentary,2020-04-03,data/img/poster-517.jpg,Drama, Romance,NaN,NaN,NaN,NaN
+THE PHOTOGRAPH,74.0,81.0,"Drama, Romance",2020-02-14,data/img/poster-518.jpg,Romance,NaN,NaN,NaN,NaN,NaN
+VANILLA,87.0,75.0,Romance,2020-04-30,data/img/poster-519.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+JAMES VS. HIS FUTURE SELF,100.0,55.0,Drama,2020-04-30,data/img/poster-520.jpg,War, History, Drama,NaN,NaN,NaN
+ENEMY LINES,20.0,44.0,"War, History, Drama",2020-04-24,data/img/poster-521.jpg,Mystery And Thriller, Action,NaN,NaN,NaN,NaN
+EXTRACTION,67.0,69.0,"Mystery And Thriller, Action",2020-04-25,data/img/poster-522.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+15 YEARS,67.0,0.0,Drama,2020-04-28,data/img/poster-523.jpg,Romance,NaN,NaN,NaN,NaN,NaN
+THE HALF OF IT,97.0,81.0,Romance,2020-05-02,data/img/poster-524.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+ALL DAY AND A NIGHT,57.0,60.0,Drama,2020-05-02,data/img/poster-527.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+EATING UP EASTER,86.0,0.0,Documentary,2020-06-27,data/img/poster-528.jpg,Drama, Documentary,NaN,NaN,NaN,NaN
+A SECRET LOVE,100.0,94.0,"Drama, Documentary",2020-04-29,data/img/poster-529.jpg,Mystery And Thriller, Crime, Drama,NaN,NaN,NaN
+MRS. SERIAL KILLER,17.0,53.0,"Mystery And Thriller, Crime, Drama",2020-05-02,data/img/poster-530.jpg,Mystery And Thriller,NaN,NaN,NaN,NaN,NaN
+THE MENTOR,43.0,100.0,Mystery And Thriller,2020-04-26,data/img/poster-531.jpg,Fantasy, Adventure, Kids And Family, Comedy, Musical, Animation
+TROLLS WORLD TOUR,71.0,59.0,"Fantasy, Adventure, Kids And Family, Comedy, Musical, Animation",2020-04-10,data/img/poster-532.jpg,Mystery And Thriller, Action,NaN,NaN,NaN,NaN
+THE RHYTHM SECTION,28.0,44.0,"Mystery And Thriller, Action",2020-01-31,data/img/poster-533.jpg,Mystery And Thriller, Sci Fi, Horror,NaN,NaN,NaN
+PERFECT,21.0,47.0,"Mystery And Thriller, Sci Fi, Horror",2019-05-17,data/img/poster-534.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+TRUST MACHINE: THE STORY OF BLOCKCHAIN,90.0,83.0,Documentary,2018-10-26,data/img/poster-535.jpg,Crime, Mystery And Thriller, Drama,NaN,NaN,NaN
+PLAGUES OF BRESLAU,83.0,50.0,"Crime, Mystery And Thriller, Drama",2020-04-22,data/img/poster-536.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+IMAGINARY ORDER,73.0,50.0,"Comedy, Drama",2020-04-08,data/img/poster-537.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+BLUMHOUSE'S FANTASY ISLAND,7.0,48.0,"Mystery And Thriller, Horror",2020-02-14,data/img/poster-539.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+ABE,70.0,70.0,"Comedy, Drama",2020-04-17,data/img/poster-541.jpg,Music, Documentary,NaN,NaN,NaN,NaN
+MILES DAVIS: BIRTH OF THE COOL,92.0,82.0,"Music, Documentary",2020-03-10,data/img/poster-542.jpg,Biography, Documentary,NaN,NaN,NaN,NaN
+JUMP SHOT: THE KENNY SAILORS STORY,100.0,98.0,"Biography, Documentary",2020-06-02,data/img/poster-543.jpg,Mystery And Thriller, Crime, Drama,NaN,NaN,NaN
+STRAY DOLLS,71.0,60.0,"Mystery And Thriller, Crime, Drama",2020-04-08,data/img/poster-544.jpg,Biography, Documentary,NaN,NaN,NaN,NaN
+CIRCUS OF BOOKS,98.0,81.0,"Biography, Documentary",2020-04-22,data/img/poster-545.jpg,Mystery And Thriller, Sci Fi, Action, Horror,NaN,NaN
+UNDERWATER,47.0,60.0,"Mystery And Thriller, Sci Fi, Action, Horror",2020-01-10,data/img/poster-546.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+"A WHITE, WHITE DAY",96.0,0.0,Drama,2020-02-28,data/img/poster-547.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+SEA FEVER,86.0,46.0,"Mystery And Thriller, Horror",2020-04-08,data/img/poster-548.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+NO SMALL MATTER,100.0,100.0,Documentary,2020-06-25,data/img/poster-549.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+WE SUMMON THE DARKNESS,69.0,33.0,"Mystery And Thriller, Horror",2020-04-10,data/img/poster-550.jpg,Comedy, Mystery And Thriller,NaN,NaN,NaN,NaN
+BUTT BOY,70.0,66.0,"Comedy, Mystery And Thriller",2020-04-14,data/img/poster-551.jpg,Biography, Documentary,NaN,NaN,NaN,NaN
+CHICHINETTE: THE ACCIDENTAL SPY,80.0,0.0,"Biography, Documentary",2020-04-14,data/img/poster-552.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+SERGIO,43.0,51.0,Drama,2020-04-18,data/img/poster-553.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+MAN CAMP,100.0,83.0,Comedy,2020-04-19,data/img/poster-554.jpg,Biography, Documentary,NaN,NaN,NaN,NaN
+BORTOM DET SYNLIGA - FILMEN OM HILMA AF KLINT,96.0,0.0,"Biography, Documentary",2020-07-16,data/img/poster-555.jpg,Animation, Adventure, Action,NaN,NaN,NaN
+MORTAL KOMBAT LEGENDS: SCORPION'S REVENGE,89.0,86.0,"Animation, Adventure, Action",2020-04-12,data/img/poster-556.jpg,Sci Fi,NaN,NaN,NaN,NaN,NaN
+SOUNDWAVE,85.0,0.0,Sci Fi,2020-04-14,data/img/poster-559.jpg,Horror,NaN,NaN,NaN,NaN,NaN
+BEHIND YOU,6.0,27.0,Horror,2020-04-15,data/img/poster-560.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+RISING HIGH,33.0,50.0,Comedy,2020-04-18,data/img/poster-561.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+ELODIE,67.0,0.0,Drama,2019-10-05,data/img/poster-563.jpg,Comedy, Fantasy, Adventure, Kids And Family,NaN,NaN
+SONIC THE HEDGEHOG,63.0,93.0,"Comedy, Fantasy, Adventure, Kids And Family",2020-02-14,data/img/poster-564.jpg,Comedy, Horror,NaN,NaN,NaN,NaN
+SHE'S ALLERGIC TO CATS,85.0,0.0,"Comedy, Horror",2016-06-18,data/img/poster-565.jpg,War, Drama,NaN,NaN,NaN,NaN
+THE LAST FULL MEASURE,59.0,96.0,"War, Drama",2020-01-24,data/img/poster-566.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+WHAT YOU GONNA DO WHEN THE WORLD'S ON FIRE?,87.0,62.0,Documentary,2020-04-06,data/img/poster-567.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+IT STARTED AS A JOKE,100.0,83.0,Documentary,2020-04-03,data/img/poster-568.jpg,Biography, Drama, Musical,NaN,NaN,NaN
+A SONG OF LOVE,60.0,0.0,"Biography, Drama, Musical",2020-04-07,data/img/poster-569.jpg,Comedy, Animation, Adventure,NaN,NaN,NaN
+STRIKE,83.0,76.0,"Comedy, Animation, Adventure",2020-04-05,data/img/poster-570.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+SLAY THE DRAGON,100.0,73.0,Documentary,2020-04-03,data/img/poster-571.jpg,Mystery And Thriller, Horror,NaN,NaN,NaN,NaN
+BRAHMS: THE BOY II,10.0,44.0,"Mystery And Thriller, Horror",2020-02-21,data/img/poster-572.jpg,Romance,NaN,NaN,NaN,NaN,NaN
+ALMOST LOVE,67.0,71.0,Romance,2020-04-03,data/img/poster-573.jpg,Drama, Horror,NaN,NaN,NaN,NaN
+THE OTHER LAMB,75.0,33.0,"Drama, Horror",2020-04-03,data/img/poster-574.jpg,Sports And Fitness, Action,NaN,NaN,NaN,NaN
+IP MAN 4: THE FINALE,84.0,95.0,"Sports And Fitness, Action",2019-12-25,data/img/poster-576.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+NEVER RARELY SOMETIMES ALWAYS,99.0,20.0,Drama,2020-03-13,data/img/poster-577.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+IMPRACTICAL JOKERS: THE MOVIE,35.0,76.0,Comedy,2020-02-28,data/img/poster-578.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+CLOVER,28.0,55.0,Comedy,2020-04-03,data/img/poster-579.jpg,Music, Documentary,NaN,NaN,NaN,NaN
+STREETLIGHT HARMONIES,100.0,100.0,"Music, Documentary",2020-03-28,data/img/poster-580.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+LAZY SUSAN,10.0,50.0,Comedy,2020-04-03,data/img/poster-581.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+TURNOVER,100.0,96.0,"Comedy, Drama",2020-04-06,data/img/poster-582.jpg,Documentary,NaN,NaN,NaN,NaN,NaN
+CLOSE ENCOUNTERS OF THE FIFTH KIND: CONTACT HAS BEGUN,17.0,81.0,Documentary,2020-04-07,data/img/poster-583.jpg,Comedy, Action,NaN,NaN,NaN,NaN
+COFFEE & KAREEM,20.0,30.0,"Comedy, Action",2020-04-04,data/img/poster-585.jpg,Romance,NaN,NaN,NaN,NaN,NaN
+SAME BOAT,64.0,100.0,Romance,2020-04-08,data/img/poster-586.jpg,Drama,NaN,NaN,NaN,NaN,NaN
+ABOUT A TEACHER,100.0,0.0,Drama,2020-04-17,data/img/poster-587.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+THE MAIN EVENT,26.0,23.0,Comedy,2020-04-11,data/img/poster-588.jpg,Comedy,NaN,NaN,NaN,NaN,NaN
+LOVE. WEDDING. REPEAT,32.0,37.0,Comedy,2020-04-11,data/img/poster-589.jpg,Comedy, Drama,NaN,NaN,NaN,NaN
+SCHOOL LIFE,90.0,74.0,"Comedy, Drama",2020-04-11,data/img/poster-590.jpg,Mystery And Thriller, Drama, Action,NaN,NaN,NaN
+SHOOTING HEROIN,61.0,95.0,"Mystery And Thriller, Drama, Action",2020-04-03,data/img/poster-591.jpg,NaN,NaN,NaN,NaN,NaN,NaN
